@@ -1,6 +1,8 @@
-Project Title: AWS S3 Static Website Hosting
+AWS S3 Static Website Hosting
+
 Overview
 This project demonstrates how to host a static website (HTML, CSS) on AWS S3 without using a web server like EC2.
+
 Prerequisites
 An AWS Account.
 Basic HTML/CSS files ( `index.html`, `stle.css`, `error.html` ).
