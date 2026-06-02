@@ -5,9 +5,6 @@ Prerequisites
 An AWS Account.
 Basic HTML/CSS files ( `index.html`, `stle.css`, `error.html` ).
 
-```html
-<h1>Hello World<h1>
-
 ### Git installed on your local machine.
 Step-by-Step Hosting Process
 
